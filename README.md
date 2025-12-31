@@ -8,7 +8,7 @@ Computer Science student (L2) at HEI Madagascar, passionate about web developmen
 
 ## Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS, JavaScript
 - **Frameworks**: React, TailwindCSS
 - **Backend**: Node.js, Express
 - **Database**: PostgreSQL
@@ -21,9 +21,6 @@ Computer Science student (L2) at HEI Madagascar, passionate about web developmen
 - **POKEDEX** - Interactive Pokémon database
 - **DCNote** - Note-taking application
 
-## Demo
-
-View the site: [My Portfolio](https://ambinintsoa007.github.io/My_Portfolio/) *(to be added after deployment)*
 
 ## Contact
 
