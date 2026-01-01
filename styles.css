@@ -23,7 +23,7 @@ html {
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
     background-color: var(--white);
@@ -35,7 +35,7 @@ body {
     padding: 0 2rem;
 }
 
-/* navbar */
+/* navbar style*/
 .navbar {
     position: fixed;
     top: 0;
