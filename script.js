@@ -41,7 +41,7 @@ const animateSkillBars = () => {
             }
         });
     }, {
-        threshold: 0.1  // Réduit à 0.1 pour déclencher plus facilement
+        threshold: 0.1
     });
 
     skillBars.forEach(bar => {
@@ -121,7 +121,7 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Typing effect for hero subtitle (optional enhancement)
+// Typing effect for hero subtitle 
 const typingEffect = () => {
     const subtitle = document.querySelector('.hero-text p');
     if (!subtitle) return;
@@ -153,7 +153,7 @@ window.addEventListener('scroll', () => {
     }
 });
 
-// Easter egg: Konami code
+// Easter egg: konami code
 let konamiCode = [];
 const konamiPattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
 
