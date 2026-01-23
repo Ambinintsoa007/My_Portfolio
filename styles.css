@@ -179,7 +179,7 @@ body {
 }
 
 .image-placeholder {
-    width: 350px;
+    width: 290px;
     height: 350px;
     border-radius: 20px;
     background: rgba(255, 255, 255, 0.1);
@@ -190,6 +190,12 @@ body {
     justify-content: center;
     align-items: center;
     gap: 1rem;
+}
+
+.pro-photo {
+    width: 290px;
+    height: 350px;
+    border-radius: 10px;
 }
 
 .image-placeholder i {
@@ -677,7 +683,12 @@ footer p {
     }
 
     .image-placeholder {
-        width: 280px;
+        width: 220px;
+        height: 280px;
+    }
+
+    .pro-photo {
+        width: 220px;
         height: 280px;
     }
 
@@ -716,7 +727,11 @@ footer p {
     }
 
     .image-placeholder {
-        width: 250px;
+        width: 190px;
+        height: 250px;
+    }
+    .pro-photo{
+        width: 190px;
         height: 250px;
     }
 }
